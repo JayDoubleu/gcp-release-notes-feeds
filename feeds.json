@@ -1,0 +1,406 @@
+[
+    {
+        "html_url": "https://cloud.google.com/natural-language/automl/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-language-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/automl-tables/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-tables-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/translate/automl/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-translate-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/video-intelligence/automl/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-video-intelligence-classification-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/video-intelligence/automl/object-tracking/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-video-intelligence-object-tracking-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vision/automl/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-vision-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vision/automl/object-detection/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/automl-vision-object-detection-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vision/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/vision-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vision/product-search/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/visionproductsearch-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/video-intelligence/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/video-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/natural-language/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/language-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/translate/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/translate-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/text-to-speech/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/tts-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/speech-to-text/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/speech-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/dialogflow/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/dialogflow-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/ai-platform/data-labeling/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/datalabeling-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/retail/recommendations-ai/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/retail-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/ai-platform/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/aiplatform-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/deep-learning-vm/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/deeplearningvm-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/deep-learning-containers/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/aiplatformdeeplearningcontainers-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/ai-platform/pipelines/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/ai-platform-pipelines-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/ai-platform/prediction/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/ai-platform-prediction-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/ai-platform/training/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/ai-platform-training-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/compute/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/compute-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/tpu/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/tpu-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/tensorflow-enterprise/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/tensorflowenterprise-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/api-gateway/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/apigateway-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/endpoints/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/endpoints-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/bare-metal/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/bare-metal-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vmware-engine/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/vmware-engine-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/kubernetes-engine/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/gke-main-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/container-registry/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/container-registry-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/build/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudbuild-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/deploy/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/clouddeploy-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/container-optimized-os/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cos-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/bigquery/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/bigquery-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/composer/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/composer-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/dataflow/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/dataflow-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/data-fusion/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/clouddatafusion-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/dataproc/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/dataproc-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/pubsub/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/pubsub-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/data-catalog/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/data-catalog-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/life-sciences/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloud-life-sciences-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/bigtable/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/bigtable-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/firestore/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/fs-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/spanner/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/spanner-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/datastore/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/datastore-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/artifact-registry/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/artifactregistry-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/source-repositories/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/source-repositories-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/scheduler/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudscheduler-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/tasks/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloud-tasks-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/tools/powershell/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloud-tools-for-powershell-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/tools/visual-studio/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloud-tools-for-visual-studio-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/eclipse/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/eclipse-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/healthcare/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/healthcare-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/anthos/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/anthos-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/anthos-config-management/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/anthosconfig-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/service-mesh/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/servicemesh-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/config-connector/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/configconnector-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/anthos/run/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/runanthos-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/marketplace/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/gcpmarketplace-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/migrate/containers/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/migrateanthos-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/traffic-director/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/trafficdirector-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/iot/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/iot-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/private-catalog/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/privatecatalog-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/deployment-manager/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/deploymentmanager-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/billing/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/billing-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/storage-transfer/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/storagetransfer-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/transfer-appliance/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/transferappliance-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/armor/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/armor-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/domains/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/domains-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/cdn/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudcdn-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/dns/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/dns-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/load-balancing/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudloadbalancing-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/nat/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudnat-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/network-intelligence-center/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/networkintelligence-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/network-tiers/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/networkservicetiers-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vpc/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/vpc-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/stackdriver/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/stackdriver-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/binary-authorization/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/binary-auth-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/asset-inventory/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/asset-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/dlp/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/dlp-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/kms/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/kms-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/security-command-center/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/scc-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/vpc-service-controls/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/vpc-sc-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/secret-manager/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/secretmanager-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/iam/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/iam-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/identity/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudidentity-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/iap/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/iap-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/endpoint-verification/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/endpointverification-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/identity-platform/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/identityplatform-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/managed-microsoft-ad/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/managedmicrosoftad-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/resource-manager/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/cloudresourcemanager-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/recaptcha-enterprise/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/recaptcha-enterprise-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/web-risk/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/webrisk-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/run/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/run-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/functions/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/functions-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/storage/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/storage-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/filestore/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/filestore-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/backup-disaster-recovery/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/backupdr-release-notes.xml"
+    },
+    {
+        "html_url": "https://cloud.google.com/solutions/sap/docs/release-notes",
+        "feed_url": "https://cloud.google.com/feeds/sapongooglecloud-release-notes.xml"
+    }
+]

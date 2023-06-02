@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+	<channel>
+		<title>My RSS Feed</title>
+		<link>http://example.com/rss/</link>
+		<description>This is an example RSS feed</description>
+		<lastBuildDate>Tue, 06 Jun 2023 00:00:00 -0700</lastBuildDate>
+		<item>
+			<title>tag:google.com,2016:compute-release-notes#June_06_2023 - June 06, 2023</title>
+			<link>https://cloud.google.com/compute/docs/release-notes#June_06_2023</link>
+			<description>### Issue
+
+For MIGs that have T2D machine series VMs, autoscaling based on CPU utilization doesn't work as expected. For more details, see [Known issues](https://cloud.google.com/compute/docs/troubleshooting/known-issues#managed_instance_group_having_t2d_machine_series_doesnt_autoscale_as_expected).</description>
+			<pubDate>Tue, 06 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:compute-release-notes#June_06_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:compute-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/compute/docs/release-notes#June_05_2023</link>
+			<description>### Feature
+
+__Generally available__: [Accelerator-optimized (G2) machine types](https://cloud.google.com/compute/docs/accelerator-optimized-machines#g2-vms) with attached NVIDIA® L4 GPUs are generally available in the following regions and zones:
+
+*   Singapore, APAC: `` asia-southeast1-b ``
+*   Netherlands, Europe: `` europe-west4-a,b,c ``
+*   Iowa, North America: `` us-central1-a,b ``
+*   South Carolina, North America: `` us-east1-b,d ``
+*   Virginia, North America: `` us-east4-a ``
+*   Oregon, North America: `` us-west1-a,b ``</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:compute-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:compute-release-notes#May_31_2023 - May 31, 2023</title>
+			<link>https://cloud.google.com/compute/docs/release-notes#May_31_2023</link>
+			<description>### Feature
+
+__Preview__: In a managed instance group (MIG), you can set metadata and labels for all VMs in the group without the need to create a new instance template. For more information, see [Override instance template properties with an all-instances configuration](https://cloud.google.com/compute/docs/instance-groups/set-mig-aic).
+
+### Feature
+
+The image import tool now supports importing [CentOS Stream 9 and CentOS Stream 8](https://cloud.google.com/compute/docs/images/os-details#centos) images to Google Cloud.</description>
+			<pubDate>Wed, 31 May 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:compute-release-notes#May_31_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:cos-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/container-optimized-os/docs/release-notes#June_05_2023</link>
+			<description>&lt;strong class=&quot;release-note-product-version-title&quot;&gt;105&lt;/strong&gt;
+
+### Changed
+
+&lt;h3 id=&quot;cos-105-17412-101-17_&quot;&gt;cos-105-17412-101-17 &lt;a id=&quot;cos-arm64-105-17412-101-17&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;table class=&quot;pkg&quot;&gt;&lt;tr&gt;&lt;td&gt;Kernel&lt;/td&gt;&lt;td&gt;Docker&lt;/td&gt;&lt;td&gt;Containerd&lt;/td&gt;&lt;td&gt;GPU Drivers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cos.googlesource.com/third_party/kernel/+/3f78393e3888bca4fdd7aae9d405f27017334f87&quot;&gt;COS-5.15.109&lt;/a&gt;&lt;/td&gt;&lt;td&gt;v23.0.3&lt;/td&gt;&lt;td&gt;v1.7.0&lt;/td&gt;&lt;td&gt;v470.182.03(default),v525.105.17&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+### Security
+
+Updated ncurses to v6.4p20220423. This resolves CVE-2023-29491.
+
+&lt;strong class=&quot;release-note-product-version-title&quot;&gt;93&lt;/strong&gt;
+
+### Changed
+
+&lt;h3 id=&quot;cos-93-16623-402-22_&quot;&gt;cos-93-16623-402-22 &lt;a id=&quot;cos-arm64-93-16623-402-22&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;table class=&quot;pkg&quot;&gt;&lt;tr&gt;&lt;td&gt;Kernel&lt;/td&gt;&lt;td&gt;Docker&lt;/td&gt;&lt;td&gt;Containerd&lt;/td&gt;&lt;td&gt;GPU Drivers&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;https://cos.googlesource.com/third_party/kernel/+/b368a780211dc4f7460285f2ca4bdad2ce0dfdad&quot;&gt;COS-5.10.177&lt;/a&gt;&lt;/td&gt;&lt;td&gt;v20.10.14&lt;/td&gt;&lt;td&gt;v1.5.18&lt;/t</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:cos-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:gke-main-release-notes#June_06_2023 - June 06, 2023</title>
+			<link>https://cloud.google.com/kubernetes-engine/docs/release-notes#June_06_2023</link>
+			<description>### Security
+
+A new vulnerability (CVE-2023-1872) has been discovered in the Linux kernel that can lead to a privilege escalation to root on the node. For more information, see the [GCP-2023-008](https://cloud.google.com/anthos/clusters/docs/security-bulletins#gcp-2023-008).
+
+### Security
+
+A new vulnerability (CVE-2023-2878) has been discovered in the secrets-store-csi-driver where an actor with access to the driver logs could observe service account tokens. These tokens could then potentially be exchanged with external cloud providers to access secrets stored in cloud vault solutions. On GKE, the severity is None. For more information, see the [GCP-2023-009 security bulletin](https://cloud.google.com/anthos/clusters/docs/security-bulletins#gcp-2023-009). </description>
+			<pubDate>Tue, 06 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:gke-main-release-notes#June_06_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:gke-main-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/kubernetes-engine/docs/release-notes#June_05_2023</link>
+			<description>### Changed
+
+&lt;h4 id=&quot;2023-r11_version_updates&quot;&gt;(2023-R11) Version updates&lt;/h4&gt;
+
+GKE cluster versions have been updated.
+
+__New versions available for upgrades and new clusters__
+
+The following Kubernetes versions are now available for new clusters and for opt-in control plane upgrades and node upgrades for existing clusters. For more information on versioning and upgrades, see [GKE versioning and support](https://cloud.google.com/kubernetes-engine/versioning) and [Upgrades](https://cloud.google.com/kubernetes-engine/upgrades).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3&gt;No channel&lt;/h3&gt;&lt;aside class=&quot;note&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;span&gt; Your clusters might not have these versions available. Rollouts begin on the day of the note and take four or more business days to be completed across all Google Cloud zones.&lt;/span&gt;&lt;/aside&gt;&lt;ul&gt;&lt;li&gt;The following control plane and node versions are now available: &lt;ul&gt;&lt;li&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/kubernetes/kube</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:gke-main-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:gke-main-release-notes#June_01_2023 - June 01, 2023</title>
+			<link>https://cloud.google.com/kubernetes-engine/docs/release-notes#June_01_2023</link>
+			<description>### Feature
+
+Agones on GKE users will get [recommendations and insights](https://cloud.google.com/kubernetes-engine/docs/how-to/isolate-agones-controller-gke) if they did not install the Agones controller on dedicated nodes.</description>
+			<pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:gke-main-release-notes#June_01_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:dataproc-release-notes#June_02_2023 - June 02, 2023</title>
+			<link>https://cloud.google.com/dataproc/docs/release-notes#June_02_2023</link>
+			<description>### Announcement
+
+New [Dataproc Serverless for Spark runtime versions](https://cloud.google.com/dataproc-serverless/docs/concepts/versions/spark-runtime-versions):
+
+*   1.1.17
+*   2.0.25
+*   2.1.4
+
+### Changed
+
+Upgrade Cloud Storage connector to [2.2.14](https://github.com/GoogleCloudDataproc/hadoop-connectors/releases/tag/v2.2.14) version in [Dataproc Serverless for Spark runtimes](https://cloud.google.com/dataproc-serverless/docs/concepts/versions/spark-runtime-versions).</description>
+			<pubDate>Fri, 02 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:dataproc-release-notes#June_02_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:dataproc-release-notes#June_01_2023 - June 01, 2023</title>
+			<link>https://cloud.google.com/dataproc/docs/release-notes#June_01_2023</link>
+			<description>### Announcement
+
+New [sub-minor versions](https://cloud.google.com/dataproc/docs/concepts/versioning/dataproc-version-clusters#supported_dataproc_versions) of Dataproc images:
+
+*   2.0.66-debian10, 2.0.66-rocky8, 2.0.66-ubuntu18
+*   2.1.14-debian11, 2.1.14-rocky8, 2.1.14-ubuntu20
+
+### Changed
+
+Upgrade Cloud Storage connector version to 2.2.14 for 2.0 and 2.1 images
+
+### Changed
+
+Backport [HIVE-22891](https://issues.apache.org/jira/browse/HIVE-22891), [HIVE-21660](https://issues.apache.org/jira/browse/HIVE-21660), [HIVE-21915](https://issues.apache.org/jira/browse/HIVE-21915) to 2.0 images.
+
+### Changed
+
+Backport [HIVE-22891](https://issues.apache.org/jira/browse/HIVE-22891), [HIVE-21660](https://issues.apache.org/jira/browse/HIVE-21660), [HIVE-25520](https://issues.apache.org/jira/browse/HIVE-25520), [HIVE-25521](https://issues.apache.org/jira/browse/HIVE-25521) to 2.1 images.</description>
+			<pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:dataproc-release-notes#June_01_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:dataflow-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/dataflow/docs/release-notes#June_05_2023</link>
+			<description>### Libraries
+
+A weekly digest of client library updates from across the [Cloud SDK](https://cloud.google.com/sdk).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3 track-name=&quot;go&quot;&gt;Go&lt;/h3&gt;&lt;h3 class=&quot;external&quot; id=&quot;changes_for_dataflowapiv1beta3&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Changes for &lt;a href=&quot;https://github.com/googleapis/google-cloud-go/tree/main/dataflow/apiv1beta3&quot;&gt;dataflow/apiv1beta3&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&quot;090_2023-05-30&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/compare/dataflow/v0.8.1...dataflow/v0.9.0&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;0.9.0&lt;/a&gt; (2023-05-30)&lt;/h4&gt;&lt;h5 id=&quot;features&quot;&gt;Features&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;dataflow:&lt;/strong&gt; Update all direct dependencies (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/commit/b340d030f2b52a4ce48846ce63984b28583abde6&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;b340d03&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;h4 id=&quot;090_2023-05-30_2&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/go</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:dataflow-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:dataflow-release-notes#May_31_2023 - May 31, 2023</title>
+			<link>https://cloud.google.com/dataflow/docs/release-notes#May_31_2023</link>
+			<description>### Feature
+
+Data sampling is now [generally available](https://cloud.google.com/products/#product-launch-stages) (GA). Data sampling lets you observe the data at each step of a pipeline. For more information, see [Use data sampling to observe pipeline data](https://cloud.google.com/dataflow/docs/guides/data-sampling).</description>
+			<pubDate>Wed, 31 May 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:dataflow-release-notes#May_31_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:clouddatafusion-release-notes#June_02_2023 - June 02, 2023</title>
+			<link>https://cloud.google.com/data-fusion/docs/release-notes#June_02_2023</link>
+			<description>### Feature
+
+The [SAP Ariba Batch Source plugin](https://cloud.google.com/data-fusion/docs/how-to/connect-to-sap-ariba-batch-source) is generally available ([GA](https://cloud.google.com/products#product-launch-stages)). You can connect your data pipeline to an SAP Ariba Source and a BigQuery Sink with this plugin in Cloud Data Fusion versions 6.5.1 and later.
+
+### Feature
+
+The [SAP SuccessFactors Batch Source plugin](https://cloud.google.com/data-fusion/docs/how-to/connect-to-sap-successfactors-batch-source) is [GA](https://cloud.google.com/products#product-launch-stages). You can connect your data pipeline to an SAP SuccessFactors Source and a BigQuery Sink with this plugin in Cloud Data Fusion versions 6.5.1 and later.</description>
+			<pubDate>Fri, 02 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:clouddatafusion-release-notes#June_02_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:clouddeploy-release-notes#June_01_2023 - June 01, 2023</title>
+			<link>https://cloud.google.com/deploy/docs/release-notes#June_01_2023</link>
+			<description>### Changed
+
+The price of an active delivery pipeline is reduced. Also, single-target delivery pipelines no longer incur a charge. Underlying service charges continue to apply. See the Google Cloud Deploy [pricing page](https://cloud.google.com/deploy/pricing) for details.</description>
+			<pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:clouddeploy-release-notes#June_01_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:bigtable-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/bigtable/docs/release-notes#June_05_2023</link>
+			<description>### Libraries
+
+A weekly digest of client library updates from across the [Cloud SDK](https://cloud.google.com/sdk).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3 track-name=&quot;node.js&quot;&gt;Node.js&lt;/h3&gt;&lt;h3 class=&quot;external&quot; id=&quot;changes_for_google-cloudbigtable&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Changes for &lt;a href=&quot;https://github.com/googleapis/nodejs-bigtable&quot;&gt;@google-cloud/bigtable&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&quot;461_2023-05-30&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/nodejs-bigtable/compare/v4.6.0...v4.6.1&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;4.6.1&lt;/a&gt; (2023-05-30)&lt;/h4&gt;&lt;h5 id=&quot;bug_fixes&quot;&gt;Bug Fixes&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;Properly handle asynchronous read from stream (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/nodejs-bigtable/issues/1284&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;#1284&lt;/a&gt;) (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/nodejs-bigtable/commit/55d86baaf554247c0c3d063fc790a37569f3e77b&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:bigtable-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:healthcare-release-notes#May_31_2023 - May 31, 2023</title>
+			<link>https://cloud.google.com/healthcare-api/docs/release-notes#May_31_2023</link>
+			<description>&lt;strong class=&quot;release-note-product-version-title&quot;&gt;v1beta1 &amp;amp; v1&lt;/strong&gt;
+
+### Announcement
+
+A release was made. Updates may include general performance improvements, bug fixes, and updates to the API reference documentation.</description>
+			<pubDate>Wed, 31 May 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:healthcare-release-notes#May_31_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:billing-release-notes#June_06_2023 - June 06, 2023</title>
+			<link>https://cloud.google.com/billing/docs/release-notes#June_06_2023</link>
+			<description>### Feature
+
+__Use folders and organizations in budgets__: You can now create budgets that apply to all projects in a folder or organization that are linked to your Cloud Billing account, in addition to the current options for specific projects and labels.
+
+When you create a budget that applies to a folder or organization, the budget also covers future projects that you create in the folder or organization.
+
+[Learn about creating and modifying budgets for your Cloud Billing account](https://cloud.google.com/billing/docs/how-to/budgets).</description>
+			<pubDate>Tue, 06 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:billing-release-notes#June_06_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:spanner-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/spanner/docs/release-notes#June_05_2023</link>
+			<description>### Libraries
+
+A monthly digest of client library updates from across the [Cloud SDK](https://cloud.google.com/sdk).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3 track-name=&quot;go&quot;&gt;Go&lt;/h3&gt;&lt;h3 class=&quot;external&quot; id=&quot;changes_for_spanneradmindatabaseapiv1&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Changes for &lt;a href=&quot;https://github.com/googleapis/google-cloud-go/tree/main/spanner/admin/database/apiv1&quot;&gt;spanner/admin/database/apiv1&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&quot;1460_2023-05-12&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/compare/spanner/v1.45.1...spanner/v1.46.0&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;1.46.0&lt;/a&gt; (2023-05-12)&lt;/h4&gt;&lt;h5 id=&quot;features&quot;&gt;Features&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;spanner/admin/database:&lt;/strong&gt; Add support for UpdateDatabase in Cloud Spanner (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/issues/7917&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;#7917&lt;/a&gt;) (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/goog</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:spanner-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:vpc-release-notes#June_04_2023 - June 04, 2023</title>
+			<link>https://cloud.google.com/vpc/docs/release-notes#June_04_2023</link>
+			<description>### Feature
+
+Support for [IPv6 static routes](https://cloud.google.com/vpc/docs/routes#ipv6_support) with the following next hops is available in __Preview__: 
+
+*   `` next-hop-gateway ``
+*   `` next-hop-instance ``</description>
+			<pubDate>Sun, 04 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:vpc-release-notes#June_04_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:stackdriver-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/stackdriver/docs/release-notes#June_05_2023</link>
+			<description>&lt;strong class=&quot;release-note-product-title&quot;&gt;Cloud Logging&lt;/strong&gt;
+
+### Feature
+
+You can now configure CMEK and a default storage location for individual folders, in addition to organizations. For more information, see [Configure default settings for organizations and folders](https://cloud.google.com/logging/docs/default-settings) and [Configure CMEK for Cloud Logging](https://cloud.google.com/logging/docs/routing/managed-encryption).
+
+### Libraries
+
+A weekly digest of client library updates from across the [Cloud SDK](https://cloud.google.com/sdk).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3 track-name=&quot;node.js&quot;&gt;Node.js&lt;/h3&gt;&lt;h3 class=&quot;external&quot; id=&quot;changes_for_google-cloudlogging&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Changes for &lt;a href=&quot;https://github.com/googleapis/nodejs-logging&quot;&gt;@google-cloud/logging&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&quot;1050_2023-05-30&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/nodejs-logging/compare/v10.4.1...v10.5.0&quot; rel=&quot;noreferrer noo</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:stackdriver-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:asset-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/asset-inventory/docs/release-notes#June_05_2023</link>
+			<description>### Feature
+
+The following resource types are now publicly available through the Export APIs ([ExportAssets](https://cloud.google.com/asset-inventory/docs/reference/rest/v1/TopLevel/exportAssets), [ListAssets](https://cloud.google.com/asset-inventory/docs/listing-assets), and [BatchGetAssetsHistory](https://cloud.google.com/asset-inventory/docs/reference/rest/v1/TopLevel/batchGetAssetsHistory)), [Feed API](https://cloud.google.com/asset-inventory/docs/reference/rest/v1/feeds), and Search APIs ([SearchAllResources](https://cloud.google.com/asset-inventory/docs/reference/rest/v1/TopLevel/searchAllResources), [SearchAllIamPolicies](https://cloud.google.com/asset-inventory/docs/reference/rest/v1/TopLevel/searchAllIamPolicies)).
+
+*   Dataform 
+    
+    *   [`` dataform.googleapis.com/CompilationResult ``](https://cloud.google.com/dataform/reference/rest/v1beta1/projects.locations.repositories.compilationResults)
+    *   [`` dataform.googleapis.com/ReleaseConfig ``](https://cloud.google.com/</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:asset-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:stackdriver-release-notes#May_31_2023 - May 31, 2023</title>
+			<link>https://cloud.google.com/stackdriver/docs/release-notes#May_31_2023</link>
+			<description>&lt;strong class=&quot;release-note-product-title&quot;&gt;Cloud Logging&lt;/strong&gt;
+
+### Changed
+
+Cloud Logging no longer creates a dedicated service account for each log sink. Instead, Logging reuses an existing service account when one is available for the resource type. Logging creates a service account when none are available. For more information, see [Set destination permissions](https://cloud.google.com/logging/docs/export/aggregated_sinks#dest-auth).</description>
+			<pubDate>Wed, 31 May 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:stackdriver-release-notes#May_31_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:scc-release-notes#June_02_2023 - June 02, 2023</title>
+			<link>https://cloud.google.com/security-command-center/docs/release-notes#June_02_2023</link>
+			<description>### Changed
+
+The Google Cloud console has been updated to change how you open Security Command Center pages. Previously, you selected pages using tabs on the main page. Now you select pages from the slide-out menu on the left side of the console. To show the menu, hold your pointer over the icons on the left side of the console.
+
+For an overview of the pages, see [Using Security Command Center in the Google Cloud console](https://cloud.google.com/security-command-center/docs/how-to-use-security-command-center).</description>
+			<pubDate>Fri, 02 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:scc-release-notes#June_02_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:vpc-sc-release-notes#June_01_2023 - June 01, 2023</title>
+			<link>https://cloud.google.com/vpc-service-controls/docs/release-notes#June_01_2023</link>
+			<description>### Announcement
+
+[Preview stage](https://cloud.google.com/products/#product-launch-stages) support for the following integration: 
+
+*   [Storage Insights](https://cloud.google.com/storage/docs/insights/using-inventory-reports)</description>
+			<pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:vpc-sc-release-notes#June_01_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:secretmanager-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/secret-manager/docs/release-notes#June_05_2023</link>
+			<description>### Libraries
+
+A weekly digest of client library updates from across the [Cloud SDK](https://cloud.google.com/sdk).
+
+&lt;div class=&quot;ds-selector-tabs&quot; data-ds-scope=&quot;code-sample&quot;&gt;&lt;section&gt;&lt;h3 track-name=&quot;go&quot;&gt;Go&lt;/h3&gt;&lt;h3 class=&quot;external&quot; id=&quot;changes_for_secretmanagerapiv1&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;Changes for &lt;a href=&quot;https://github.com/googleapis/google-cloud-go/tree/main/secretmanager/apiv1&quot;&gt;secretmanager/apiv1&lt;/a&gt;&lt;/h3&gt;&lt;h4 id=&quot;1110_2023-05-30&quot;&gt;&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/compare/secretmanager/v1.10.1...secretmanager/v1.11.0&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;1.11.0&lt;/a&gt; (2023-05-30)&lt;/h4&gt;&lt;h5 id=&quot;features&quot;&gt;Features&lt;/h5&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;secretmanager:&lt;/strong&gt; Update all direct dependencies (&lt;a class=&quot;external&quot; href=&quot;https://github.com/googleapis/google-cloud-go/commit/b340d030f2b52a4ce48846ce63984b28583abde6&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot;&gt;b340d03&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/div&gt;</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:secretmanager-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:sapongooglecloud-release-notes#June_05_2023 - June 05, 2023</title>
+			<link>https://cloud.google.com/solutions/sap/docs/release-notes#June_05_2023</link>
+			<description>### Announcement
+
+__Google Cloud's Agent for SAP version 2.0__
+
+Version 2.0 of Google Cloud's Agent for SAP is generally available (GA). This version introduces the opt-in feature of collecting SAP HANA monitoring metrics, making Google Cloud's Agent for SAP version 2.0 the successor to Google Cloud's monitoring agent for SAP HANA.
+
+For more information, see [What's new with Google Cloud's Agent for SAP](https://cloud.google.com/solutions/sap/docs/agent-for-sap/whats-new).
+
+### Deprecated
+
+Google Cloud's monitoring agent for SAP HANA is deprecated, and is replaced by the _SAP HANA monitoring metrics collection_ feature of version 2.0 of Google Cloud's Agent for SAP. For upgrade instructions, see [Google Cloud's Agent for SAP operations guide](https://cloud.google.com/solutions/sap/docs/agent-for-sap/latest/operations#upgrade-to-agent4sap).
+
+Support for the monitoring agent for SAP HANA ends on May 31, 2024.</description>
+			<pubDate>Mon, 05 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:sapongooglecloud-release-notes#June_05_2023</guid>
+		</item>
+		<item>
+			<title>tag:google.com,2016:functions-release-notes#June_01_2023 - June 01, 2023</title>
+			<link>https://cloud.google.com/functions/docs/release-notes#June_01_2023</link>
+			<description>### Feature
+
+You can use the [Pnpm](https://pnpm.io/installation) package manager to configure dependencies for Node.js runtimes. [Learn how to configure your runtime](https://cloud.google.com/functions/docs/writing/specifying-dependencies-nodejs#configuring_deployment_dependencies).</description>
+			<pubDate>Thu, 01 Jun 2023 00:00:00 -0700</pubDate>
+			<guid isPermaLink="false">tag:google.com,2016:functions-release-notes#June_01_2023</guid>
+		</item>
+	</channel>
+</rss>
